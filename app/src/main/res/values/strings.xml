@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="startTimerText">%d:%02d</string>
+</resources>
